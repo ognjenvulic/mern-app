@@ -52,7 +52,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="17">
@@ -67,22 +67,16 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="544">
                   <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-                  <folding>
-                    <marker date="1591389914615" expanded="true" signature="81:320" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
-                    <marker date="1591389914615" expanded="true" signature="335:481" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
-                    <marker date="1591389914615" expanded="true" signature="501:533" ph="{&quot;extends&quot;: &quot;react-app&quot;...}" />
-                    <marker date="1591389914615" expanded="true" signature="573:637" ph="[...]" />
-                    <marker date="1591389914615" expanded="true" signature="658:758" ph="[...]" />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="221">
-                  <caret line="13" column="55" lean-forward="false" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+                  <caret line="13" column="58" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
                   <folding />
                 </state>
               </provider>
@@ -129,9 +123,9 @@
         <option value="$PROJECT_DIR$/client/src/App.js" />
         <option value="$PROJECT_DIR$/client/src/App.css" />
         <option value="$PROJECT_DIR$/client/yarn.lock" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -240,12 +234,12 @@
       <option name="presentableId" value="Default" />
       <updated>1591301431915</updated>
       <workItem from="1591301433126" duration="22179000" />
-      <workItem from="1591377329238" duration="4953000" />
+      <workItem from="1591377329238" duration="5125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27132000" />
+    <option name="totallyTimeSpent" value="27304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="67" width="1927" height="980" extended-state="0" />
@@ -369,20 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-          <folding>
-            <marker date="1591389914615" expanded="true" signature="81:320" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
-            <marker date="1591389914615" expanded="true" signature="335:481" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
-            <marker date="1591389914615" expanded="true" signature="501:533" ph="{&quot;extends&quot;: &quot;react-app&quot;...}" />
-            <marker date="1591389914615" expanded="true" signature="573:637" ph="[...]" />
-            <marker date="1591389914615" expanded="true" signature="658:758" ph="[...]" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/yarn.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-408">
@@ -399,14 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="55" lean-forward="false" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
@@ -419,6 +391,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="58" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
           <folding />
         </state>
       </provider>
